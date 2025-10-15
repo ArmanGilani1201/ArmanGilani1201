@@ -108,7 +108,7 @@
 
 - 🤖 Artificial Intelligence & Machine Learning with Python  
 - ☁️ Cloud Platforms: AWS, GCP, and Azure Fundamentals  
-- 🧩 Advanced App Development using Flutter and .NET  
+- 🧩 System Design & Architecture
 - ⚙️ Research-based Software Development & System Design
 
 ---
