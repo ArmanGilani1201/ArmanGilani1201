@@ -69,7 +69,7 @@
 
 - 🎓 Pursuing **Master of Science (MSc) in Computer Science** at *University of East London (UEL)*  
 - 🧠 Exploring **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**
-- 💻 Experienced in **Flutter**, **Android**, **.NET**, and **Full-Stack Web Development**
+- 💻 Experienced in **Android**, **Flutter**, **FlutterFlow**, **.NET**, and **Full-Stack Web Development**
 - 📍 Based in **London, United Kingdom**
 - ✉️ Reach me at: [armangilani777@gmail.com](mailto:armangilani777@gmail.com)
 - 🔗 Connect: [LinkedIn](https://linkedin.com/in/arman-gilani)
