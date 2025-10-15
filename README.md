@@ -55,8 +55,13 @@
   <img src="https://komarev.com/ghpvc/?username=ArmanGilani1201&label=Profile%20views&color=blueviolet&style=flat" alt="visitor badge" />
 </p>-->
 
-<h1 align="center">Hey there 👋, I'm Arman Gilani</h1>
-<h3 align="center">🎓 MSc Computer Science @ University of East London | AI | Cloud | Mobile App Developer</h3>
+<h1 align="center">Hello 👋, I'm Arman Gilani</h1>
+<h3 align="center">🚀 Mobile App Developer | Software Engineer | Tech Explorer</h3>
+<p align="center">
+  🚀 Passionate about continuous learning, research, and building innovative software solutions.<br/>
+  🌱 Exploring **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing** as part of my Master's studies.<br/>
+  💡 Using GitHub Education tools to collaborate, experiment, and grow as a developer.
+</p>
 
 <p align="center">
   💡 A curious mind exploring the intersection of Software Engineering, AI, and Cloud Technologies.<br/>
