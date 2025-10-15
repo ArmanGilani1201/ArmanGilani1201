@@ -58,15 +58,9 @@
 <h1 align="center">Hello 👋, I'm Arman Gilani</h1>
 <h3 align="center">🚀 Mobile App Developer | Software Engineer | Tech Explorer</h3>
 <p align="center">
-  🚀 Passionate about continuous learning, research, and building innovative software solutions.<br/>
+  💡 Passionate about continuous learning, research, and building innovative software solutions.<br/>
   🌱 Exploring AI, ML, and Cloud Computing as part of my Master's studies.<br/>
-  💡 Using GitHub Education tools to collaborate, experiment, and grow as a developer.
-</p>
-
-<p align="center">
-  💡 A curious mind exploring the intersection of Software Engineering, AI, and Cloud Technologies.<br/>
-  🌱 Currently pursuing my postgraduate studies in the UK while building real-world software solutions.<br/>
-  🚀 Passionate about innovation, learning, and transforming ideas into impactful applications.
+  🚀 Using GitHub Education tools to collaborate, experiment, and grow as a developer.
 </p>
 
 ---
