@@ -80,7 +80,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,dotnet,dart,flutter,mysql,mongodb,firebase,androidstudio,visualstudio,vscode,linux,git,github)](https://skillicons.dev)
 
----
+<!-----
 
 ### 📊 GitHub Stats & Activity
 
@@ -88,6 +88,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ArmanGilani1201&theme=tokyonight&show_icons=true&count_private=true" height="160" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=ArmanGilani1201&theme=tokyonight" height="160" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanGilani1201&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+</p>
+
+---
+-->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArmanGilani1201&theme=radical&show_icons=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ArmanGilani1201&theme=radical" height="160"/>
 </p>
 
 ---
