@@ -78,7 +78,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,dotnet,dart,flutter,mysql,mongodb,firebase,androidstudio,vs,vscode,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,dotnet,dart,flutter,mysql,mongodb,firebase,androidstudio,visualstudio,vscode,linux,git,github)](https://skillicons.dev)
 
 ---
 
